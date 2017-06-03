@@ -1,0 +1,4 @@
+2017-06-03 14:22:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "HOTEL" nie istnieje
+Table "HOTEL" not found; SQL statement:
+select * from hotel [42102-195]
